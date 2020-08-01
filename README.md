@@ -12,7 +12,7 @@ The features of the app (such as fragments, scrollview) are largely adopted from
 
 Do checkout the full credits within the credits page in the app!
 
-https://Video-demonstration-of-app.gif
+https://github.com/homerjack/Bird-classification-model-training-and-deployment/blob/master/Video-demonstration-of-app.gif
 
 ###NOTE:
 
